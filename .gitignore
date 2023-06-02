@@ -2,3 +2,8 @@
 /static
 /venv
 .env
+
+/counter/__pycache__
+/counter/migrations
+
+/foodle/__pycache__
